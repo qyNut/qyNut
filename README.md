@@ -1,4 +1,4 @@
-I’m @qyNut, Ph.D. Student in Bioengineering at University of Illinois Urbana-Champaign.
+Hi, I’m @qyNut, Ph.D. Student in Bioengineering at University of Illinois Urbana-Champaign.
 
 I work on ultrasound super-resolution imaging technique.
 
